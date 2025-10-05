@@ -1,65 +1,97 @@
-<!--
-  README.md template
-  O'zgartiring: <PROJECT_NAME>, <SHORT_DESCRIPTION>, <DEMO_URL>, <INSTALL_CMD>, <USAGE_CMD>, <TECH_STACK>, <AUTHOR_EMAIL> va hokazo qismlarni almashtiring.
--->
+<h2 align="center">Hey 👋What's Up?</h2>
 
-# 🚀 <PROJECT_NAME>
+###
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
-[![Language](https://img.shields.io/badge/lang-Uzbek-yellow.svg)]()
-[![Issues](https://img.shields.io/github/issues/<YOUR_GITHUB_USERNAME>/<REPO_NAME>)]()
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQFd2V03NvF00g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1677315213615?e=2147483647&v=beta&t=3Lcjb1O67uAzZgRXXagxul6D_O1xrkCVn4LCUkHtMrg"  />
+</div>
 
-> **<SHORT_DESCRIPTION>**  
-> (Misol: "Telegram uslubidagi mini chat ilovasi — real-time, profil, typing indicator va boshqalar.")
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZoyidjonNasretdinov.ZoyidjonNasretdinov&"  />
+</div>
 
-## 🖼️ Demo / Screenshots
-> Demo yoki skrinshotni shu yerga qo'ying. GIF yoki rasm loyihaning foydasini tez ko'rsatadi.
+###
 
-![screenshot](./assets/screenshot-1.png)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="60" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+</div>
 
-**Onlayn demo:** [https://<DEMO_URL>](https://<DEMO_URL>)
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-## ✨ Xususiyatlar (Features)
+###
 
-- 🧩 Profil — avatar, ism, holat
-- 💬 Realtime chat (two-person)
-- ⌨️ Typing indikator, online/offline status
-- 🗂️ Ma'lumotlar `db.json` ga saqlanadi (json-server)
-- ♻️ Light/Dark theme, responsive UI
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZoyidjonNasretdinov/ZoyidjonNasretdinov/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZoyidjonNasretdinov/ZoyidjonNasretdinov/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZoyidjonNasretdinov/ZoyidjonNasretdinov/output/pacman-contribution-graph.svg">
+</picture>
 
-(Tiynat qilib, o'zingiz xohlagan barcha xususiyatlarni shu yerga qo'shing)
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZoyidjonNasretdinov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZoyidjonNasretdinov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 🛠️ Texnologiyalar (Tech Stack)
+###
 
-Loyiha quyidagi texnologiyalar bilan qurildi:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ZoyidjonNasretdinov&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ZoyidjonNasretdinov&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-- Frontend: **HTML5, CSS3, JavaScript**, React (agar ishlatilgan bo'lsa)
-- State & Backend: `json-server` (mocks), LocalStorage
-- Tools: Vite / Webpack, ESLint, Prettier
+###
 
-(TECH_STACK qismini loyihangizga moslab o'zgartiring)
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</div>
 
----
-
-## ⚙️ O'rnatish va ishga tushirish (Quick Start)
-
-```bash
-# Repo ni klonlash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/<REPO_NAME>.git
-cd <REPO_NAME>
-
-# Dependensiyalarni o'rnatish
-npm install
-
-# Lokal serverni ishga tushirish
-npm run dev
-
-# (Agar json-server ishlatilsa)
-# npm run json-server
+###
